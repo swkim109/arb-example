@@ -1,0 +1,12 @@
+const ALCHEMY_RINKEBY = "";
+const ALCHEMY_ARBRINKEBY = "";
+
+const PRIVATE_KEY_JAMES = "";
+const PRIVATE_KEY_KATE = "";
+
+module.exports = {
+    ALCHEMY_RINKEBY,
+    ALCHEMY_ARBRINKEBY,
+    PRIVATE_KEY_JAMES,
+    PRIVATE_KEY_KATE
+}
