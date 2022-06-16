@@ -19,6 +19,9 @@ arb-dapp-L2ToL1: 아비트럼(L2) → 이더리움(L1)
   | Block Explorer URL | https://testnet.arbiscan.io/ |    
 
   Rinkeby 테스넷은 향후 서비스를 종료할 가능성이 많으므로 아비트럼 테스트넷도 다른 네트워크로 마이그레이션될 수 있음.
+
+* 아비트럼 테스트넷 탐색기  
+  [https://testnet.arbiscan.io/](https://testnet.arbiscan.io/)
   
 * 아비트럼 개발자 문서  
   [https://developer.offchainlabs.com](https://developer.offchainlabs.com)
