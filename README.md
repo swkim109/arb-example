@@ -1,4 +1,4 @@
-## 블록체인 이더리움의 성능확장 솔루션 아비트럼
+## Ethereum Layer 2 Scaling Solution - Arbitrum
 
 * Messaging Between Layers  
 arb-dapp-L1ToL2: 이더리움(L1) → 아비트럼(L2)  
